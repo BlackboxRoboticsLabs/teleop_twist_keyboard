@@ -2,8 +2,8 @@
 Changelog for package teleop_twist_keyboard
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.4.1 (2025-09-26)
+------------------
 * replace tests_require with extra_require (`#38 <https://github.com/ros2/teleop_twist_keyboard/issues/38>`_)
   * replace tests_require with extra_require
   Co-authored-by: Chris Lalancette <clalancette@gmail.com>
